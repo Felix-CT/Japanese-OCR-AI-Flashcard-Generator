@@ -15,6 +15,7 @@
   - To run
     - `python3 main.py`
     - Alternatively you can just run main.py in your code editor
+    - If you just want to test Document AI, you can just run it's cell in testing.ipynb
   - Features
     - Select file to be processed
       - Project contains some test data in images/test_image*
