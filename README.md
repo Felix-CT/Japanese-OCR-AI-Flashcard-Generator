@@ -1,12 +1,13 @@
 ## Disclaimer:
 Although the repository does not show many contributions on my end, I would like to clarify that I was thoroughly invested in this project, including but not limited to:
- - conception of the idea / use case
- - researching various OCR/ML/AI technologies
- - scanning the textbook pages
- - choosing Google Document AI
- - creating, labeling and fixing the training data, and tuning the model
- - setting up the API
- - recording part of the youtube video
+ - Conception of the idea / use case
+ - Project management
+ - Researching various OCR/ML/AI technologies
+ - Scanning the textbook pages
+ - Choosing Google Document AI
+ - Creating, labeling and fixing the training data, and tuning the model
+ - Setting up the API
+ - Recording part of the youtube video
 
 For a general understanding of the project, please watch the video. As our google cloud free trial account expired, the api is no longer accesible.
 
