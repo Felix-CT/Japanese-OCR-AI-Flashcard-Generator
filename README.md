@@ -6,7 +6,7 @@ Although the repository does not show many contributions on my end, I would like
  - choosing Google Document AI
  - creating, labeling and fixing the training data, and tuning the model
  - setting up the API
- - recording the youtube video
+ - recording part of the youtube video
 
 For a general understanding of the project, please watch the video. As our google cloud free trial account expired, the api is no longer accesible.
 
